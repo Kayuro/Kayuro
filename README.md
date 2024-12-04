@@ -10,8 +10,7 @@
 </pre>
 
   <a href="">
-    <img src="" />
   </a> 
-  <img src="https://visitcount.itsvg.in/api?id=kayuro&icon=0&color=0" alt="Total views since Apr 18 2024" />
+  <img src="https://visitcount.itsvg.in/api?id=kayuro&icon=0&color=0" alt="" />
 
 </div>
