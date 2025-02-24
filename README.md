@@ -11,6 +11,6 @@
 
   <a href="">
   </a> 
-  <img src="https://visitcount.itsvg.in/api?id=kayuro&icon=0&color=0" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=kayur0_" alt="" />
 
 </div>
