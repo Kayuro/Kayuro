@@ -11,6 +11,6 @@
 
   <a href="">
   </a> 
-  <img src="https://komarev.com/ghpvc/?username=kayur0_" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=kayuro" alt="" />
 
 </div>
