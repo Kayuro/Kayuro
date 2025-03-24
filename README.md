@@ -1,6 +1,6 @@
 # Bonjour, je suis Kayuro ! 👋
 
-![Kayuro](https://img.shields.io/badge/Kayuro-A9A9A9)
+![Kayuro](https://img.shields.io/badge/Kayuro-000000)
 
 ![Vues Profil](https://komarev.com/ghpvc/?username=kayuro&color=blueviolet)
 
