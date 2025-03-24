@@ -4,9 +4,9 @@
 
 ![Vues Profil](https://komarev.com/ghpvc/?username=kayuro&color=blueviolet)
 
-- 🎯 Passionné par le développement et la technologie.
-- 💡 Toujours en quête d'apprentissage et d'amélioration.
-- 🌍 Partage mes projets et idées sur GitHub.
+- 🚀 Développeur passionné par l’univers du code.
+- 📚 Toujours curieux, j’aime apprendre, expérimenter et repousser mes limites.
+- 🌐 Je partage ici mes projets, idées et outils utiles à la communauté.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
