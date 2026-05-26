@@ -1,13 +1,21 @@
 # Bonjour, je suis Kayuro ! 👋
 
-![Kayuro](https://img.shields.io/badge/Kayuro-000000)
+![Profil Views](https://komarev.com/ghpvc/?username=kayuro&color=blueviolet)
 
-![Vues Profil](https://komarev.com/ghpvc/?username=kayuro&color=blueviolet)
+Compte GitHub principalement utilisé comme espace de développement, sauvegarde et déploiement de projets personnels.
 
-- 🚀 Développeur passionné par l’univers du code.
-- 📚 Toujours curieux, j’aime apprendre, expérimenter et repousser mes limites.
-- 🌐 Je partage ici mes projets, idées et outils utiles à la communauté.
+La majorité des repositories sont privés et servent au :
+- déploiement sur VPS / serveurs dédiés
+- développement interne et tests
+- bots, outils et automatisation
+- synchronisation et gestion de projets
+
+Certains dépôts publics peuvent être disponibles occasionnellement pour partager des projets ou ressources spécifiques.
+
+## Technologies utilisées
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
